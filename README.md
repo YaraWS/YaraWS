@@ -20,7 +20,7 @@
   
   [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/soler_yara.svg?style=social&label=Follow%20%40soler_yara)](https://twitter.com/soler_yara)
 	
- <a href="https://discord.gg/Yara#7843" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
   <a href = "mailto:yarawsoler@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 
